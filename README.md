@@ -65,4 +65,4 @@ INSERT INTO Inventory (Id, Inventory.Name, Stock) values(17, 'Pineapple', 999);
 
 ---------------------------------------------------------
 
-## Congratulations ! You've just worked with all of the available options in an Azure Storage Acoount !
+## Congratulations ! You've just implement a SQL Database inside Microsoft Azure !
